@@ -1,4 +1,4 @@
-# 
+# Turbo Visual Studio plugins pour Mac OS | Nouveau Visual Studio plugins pour PC Windows. Avec variables d'environnement et gestion des index — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
